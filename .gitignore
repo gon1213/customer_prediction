@@ -90,3 +90,5 @@ ENV/
 
 #dataset
 .zip
+./dataset/
+./20170112/
